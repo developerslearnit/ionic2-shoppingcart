@@ -1,0 +1,20 @@
+<ion-header>
+  <ion-navbar color="lighter">
+    <ion-title>
+      Ion2 Shopping Cart
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content fullscreen shrink-header>
+  <ion-list>
+    <ion-item text-wrap *ngFor="let product of products">
+      <ion-thumbnail item-left>
+        <img [src]="product.image" alt="">
+      </ion-thumbnail>
+      <h1 [innerHTML]="product.name" ></h1>   
+      <p [innerHTML]="product.short_description" ></p>      
+      <p class="price">{{product.price | currency:'USD':true:'1.2-2' }}</p>
+    </ion-item>     
+  </ion-list>
+</ion-content>

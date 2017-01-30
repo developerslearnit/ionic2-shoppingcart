@@ -1,0 +1,41 @@
+
+.md, .ios, .wp{
+    page-home {
+
+       
+
+        .item{
+            height: 13.7rem !important;
+            border-bottom: .8px solid #dedede;
+            margin-bottom: 2px;
+            min-height: 6.4rem;
+            padding-left:3px !important;
+
+            ion-thumbnail[item-left] {
+                margin: 8px 16px 8px 0;
+                min-height: 100px;
+                min-width: 100px;
+
+                img{
+                    height: 100px;
+                    width: 100px;
+                }
+            }//end ion-thumbnail
+
+            h1{
+                font-size:1.5rem;
+                margin-bottom: 5px;
+                color:#666;
+            }
+            p{
+                font-size: 11px;
+                color:#adadad;
+            }
+
+            p.price{
+                margin-top:8px;
+                color:#de4b39;
+            }
+        }
+    }
+}//End ion,md

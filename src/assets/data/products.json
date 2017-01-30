@@ -1,0 +1,147 @@
+
+{
+  "status": 1,
+  "message": null,
+  "data": [
+    {
+      "id": 1,
+      "name": "Gionee M6-Champagne (64GB)",
+	  "id_category":10,
+      "featured": "true",
+      "description": "The Gionee M6 delivers everything you need for a fantastic mobile phone experience, all at a price that does not hurt. Featuring a 5.5 inch HD display that's perfect for reading ebooks, watching videos and viewing media, the M6 also boasts a 5000mAh battery that will carry you through a full day's operation. The combination of a octa-core processor and Amigo 3.5 based on Android 6.0 OS, and a 4GB RAM that makes multi-tasking on the Gionee M6 a pleasure.",
+      "short_description": "The Gionee M6 delivers everything you need for a fantastic mobile phone experience, all at a price that does not hurt",
+      "price": 120000.00,
+      "sale_price": "",
+	  "specifications":"<ul><li>Display: 5.5 -1920 x 100</li><li>Processor: 2.0GHz Octa Core</li><li>Memory: 4GB RAM; 64GB ROM (expandable via microSD)</li><li>Operating System: Amigo 3.5 based on Android 6.0</li><li>Camera: 13MP (Rear); 8MP (Front)</li><li>Battery: 5000 mAh</li><li>Network: Wifi, Bluetooth</li><li>Colour: Champagne</li></ul>",	
+      "image":"assets/img/gionee-M6(64GB).jpg"
+       	  
+    },
+{
+      "id": 2,
+      "name": "Infinix Note 3 X601 (BF16)-Gold",
+	  "id_category":10,
+      "featured": "true",
+      "description": "The Infinix Note3 is as good as it gets. Featuring a 6.0 inch HD screen, a sleek design that's only 0.9mm thick and a 4500mAh battery life, the NOTE3 is unstoppable. The NOTE3 reflects Infinix committment to technology, innovation and quality with it's groundbreaking features..",
+      "short_description": "The Infinix Note3 is as good as it gets.",
+      "price": 120000.00,
+      "sale_price": "",
+	  "specifications":"<ul><li><b>Free Selfie Stick offer starts on 5th December, 2016 and is valid while stock lasts.</b></li><li>Screen: 6.0 HD Display</li><li>Memory: 2GB RAM, 16GB ROM, micro SD up to128GB&nbsp;</li><li>CPU: ARM Octa Core 1.3GHz</li><li>Operating System: XOS (Based on Android Marshmallow)</li><li>Camera: 13MP Back, 5MP Front</li></ul>",
+      "image":"assets/img/Infinix-Note3X601(BF16)-Gold.jpg"         
+       
+    }  ,
+{
+      "id": 3,
+      "name": "Tecno Camon C9 - Gold",
+	  "id_category":10,
+      "featured": "true",
+      "description": "The Infinix Note3 is as good as it gets. Featuring a 6.0 inch HD screen, a sleek design that's only 0.9mm thick and a 4500mAh battery life, the NOTE3 is unstoppable. The NOTE3 reflects Infinix committment to technology, innovation and quality with it's groundbreaking features..",
+      "short_description": "The Infinix Note3 is as good as it gets.",
+      "price": 90000.00,
+      "sale_price": "",
+	  "specifications":"<ul><li><b>Free Selfie Stick offer starts on 5th December, 2016 and is valid while stock lasts.</b></li><li>Screen: 6.0 HD Display</li><li>Memory: 2GB RAM, 16GB ROM, micro SD up to128GB&nbsp;</li><li>CPU: ARM Octa Core 1.3GHz</li><li>Operating System: XOS (Based on Android Marshmallow)</li><li>Camera: 13MP Back, 5MP Front</li></ul>",
+      "image":"assets/img/Tecno-Camon-C9-Gold.jpg"         
+         
+    }   ,
+{
+      "id": 4,
+      "name": "Gionee S6s - Mocha Gold",
+	  "id_category":10,
+      "featured": "true",
+      "description": "Flash a SmileLove to take selfies? Then the S6s is the perfect choice for you. Armed with 2 front flashes – the CRI flash and a screen flash – the S6s ensures that you always shine out. And outshine. Beauty with BrainsBeauty lies in the hands of the S6s holder, with the Face Beauty 2.0 feature. It does an intelligent analysis and naturally beautifies selfies, ensuring that you look your best. Always.Best Face ForwardLove experimenting with your looks? Now get creative with your selfies as well. The Live Filter feature gives you 8 filters to choose from, for that picture-perfect look",
+      "short_description": "Flash a SmileLove to take selfies? Then the S6s is the perfect choice for you.",
+      "price": 85000.00,
+      "sale_price": "",
+	  "specifications":"<ul><li>13MP primary camera&nbsp;</li><li>8MP front camera</li><li>13.97 centimeters (5.5-inch) IPS capacitive touchscreen with 1080 x 1920 pixels resolution&nbsp;</li><li>Android 6.0 Marshmallow</li><li>Fingerprint Sensor enabled</li><li>Operating system with 1.3GHz MediaTek MT6753 octa core processor</li><li>3GB RAM + 32GB ROM expandable up to 128GB&nbsp;</li><li>Dual SIM dual-standby - 4G LTE</li><li>3150mAH non-removable lithium-ion battery&nbsp;</li><li>1 year manufacturer warranty for device&nbsp;</li></ul>",	
+      "image": "assets/img/Gionee-S6s-MochaGold.jpg"         
+        
+    }   ,
+{
+      "id": 5,
+      "name": "KT Ladies Jumbo Handbag - Blue",
+	  "id_category":11,
+      "featured": "true",
+      "description": "This beautiful handbag is made from a synthetic leather material.it has multiple compartments that will accommodate all your personal belongings.its versatile nd can be carried by young and old.i t has one long removable handle and two short handles.",
+      "short_description": "This beautiful handbag is made from a synthetic leather material.",
+      "price": 4300.00,
+      "sale_price": "",
+	  "specifications":"<ul><li>Material: Synthetic Leather</li><li>Colour: Blue</li><li>Multiple compartments</li><li>Synthetic material</li><li>One long removable handle</li><li>Two short handles</li><li>30*26*10</li><li>Versatile</li></ul>",
+      "image": "assets/img/KT-Ladies-Jumbo-Handbag-Blue.jpg"         
+        
+    }   ,
+{
+      "id": 6,
+      "name": "Setro Ribony Leather Loafers - Black",
+	  "id_category":11,
+      "featured": "",
+      "description": "RIBONY BLACK  is a perfect casual moccasin shoe that soothes your feet while giving you a perfect finishing on your entire casual wears. It comes in a perfect blend of plain black and a red ribbon strapped to the front panel of the shoe to create the petal touch that makes sense. The finishing of this shoe is done in such a way to comply with the casual shoe pattern that can be very easy to maintain as it does not need polish, as only the use of duster will do the trick.",
+      "short_description": "RIBONY BLACK  is a perfect casual moccasin shoe that soothes your feet while giving you a perfect finishing on your entire casual wears.",
+      "price": 2780.00,
+      "sale_price": "",
+	  "specifications":"<ul><li>Black Leather</li><li>Easy to carry Flat sole</li><li>Perfect finishing</li><li>Easy to maintain&nbsp;</li></ul>",	
+      "image": "assets/img/setro-ribony-leather-loafers-black.jpg"         
+        
+    },
+{
+      "id": 7,
+      "name": "Fashion Stylish Plain Baseball Cap - Black",
+	  "id_category":11,
+      "featured": "",
+      "description": "Get trendy and stylish with our newly stocked plain color face caps with adjustable strap. It gives you a trendy look and gives your outfit unique look. Achieve your smart and admiring look with it..",
+      "short_description": "Get trendy and stylish with our newly stocked plain color face caps with adjustable strap.",
+      "price": 2000.00,
+      "sale_price": "",
+	  "specifications":"<ul><li>Material: Wool</li><li>Colour: Black</li><li>Trendy &amp; Unique&nbsp;</li><li>Affordable</li></ul>",
+      "image": "assets/img/fashion-stylish-plain-baseball-cap-black.jpg"       
+        
+    },
+{
+      "id": 8,
+      "name": "Geneva Unisex Bracelet Strap Wrist Watch- Gold",
+	  "id_category":12,
+      "featured": "",
+      "description": "This new fashion Geneva alloy analog quartz stainless steel gold wrist watch features a round case with double row chronograph decorations , which is a timepiece she will be sure to love, and perfect for everyday wear. Style is Fashion & Casual, can also adjust the band as you want by the Strap adjustment . Get this fantastic wrist watch today and show off your style in a classic way.",
+      "short_description": "This new fashion Geneva alloy analog quartz stainless steel gold wrist watch..",
+      "price": 2700.00,
+      "sale_price": 2550.00,
+	  "specifications":"<ul><li>100% High Quality&nbsp;</li><li>Dial Window&nbsp;</li><li>Material Type Glass</li><li>Case Material Alloy</li><li>Dial Material Type Alloy</li><li>Movement Quartz</li><li>Dial Display Analog</li><li>Case Shape Round</li><li>Band Material Type Stainless Steel</li></ul>",	
+      "image":"assets/img/geneva-unisex-bracelet-strap-wrist-watch-gold.jpg"         
+        
+    },
+{
+      "id":9 ,
+      "name": "Curren Black Dial Wrist watch- Brown",
+	  "id_category":12,
+      "featured": "",
+      "description": "Curren is one of the leading brand in wrist watches,This masterpiece of wrist watch is suitable for all occasions and can serve as a gift item.It is for trendy ladies and gent..",
+      "short_description": "Curren is one of the leading brand in wrist watches.",
+      "price": 3000.00,
+      "sale_price": "",
+	  "specifications":"<ul><li>Strap- Leather</li><li>Color- Black surface</li><li>Water resistant- Water proof but not for swimming.</li><li>Movement- Quartz for accurate timing</li><li>Usage- for all occasions casual and formal.</li><li>Package- &nbsp;comes in a box, suitable for gift.</li></ul>",	
+      "image":"assets/img/curren-black-dial-wrist-watch-brown.jpg"         
+        
+    } ,
+
+{
+      "id":10 ,
+      "name": "Fashion Unisex Sunglasses - Black",
+	  "id_category":12,
+      "featured": "",
+      "description": "This awesome stylish sunglasses leaves you feeling really cool. Perfect for beach outings and protects you from direct sunlight. Shop online and enjoy secure and convenient online shopping and nationwide delivery.",
+      "short_description": "This awesome stylish sunglasses leaves you feeling really cool.",
+      "price": 1600.00,
+      "sale_price": "",
+	  "specifications":"<ul><li>Colour: Black</li><li>Plastic Lens</li><li>Gender: Unisex</li><li>Amazing Look</li></ul>",	
+      "image":  "assets/img/fashion-unisex-sunglasses-black.jpg"         
+       
+    } 	
+  ]
+}
+
+
+
+
+
+
+
+
+
